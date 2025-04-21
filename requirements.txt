@@ -1,3 +1,5 @@
+pip install --upgrade pip
+
 pymongo
 pandas
 numpy
