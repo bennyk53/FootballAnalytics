@@ -1,5 +1,5 @@
 pymongo
 pandas
 numpy
-xlsxwriter==3.2.2
+xlsxwriter
 warnings
