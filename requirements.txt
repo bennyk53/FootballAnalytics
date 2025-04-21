@@ -2,4 +2,3 @@ pymongo
 pandas
 numpy
 xlsxwriter
-warnings
