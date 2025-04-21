@@ -1,7 +1,5 @@
-pip install --upgrade pip
-
 pymongo
 pandas
 numpy
-xlsxwriter
+xlsxwriter==3.2.2
 warnings
